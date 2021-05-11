@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # EB local files
+.DS_Store
 parsing_sandbox.py
 wheresthedangcarparked-export.json
 cardata_export_raw.json
