@@ -53,8 +53,8 @@ for key, value in output_json.items():
   parker = details_results.group(3)
 
   # Add geo coordinates to dictionary
-  instance['lat'] = longitude
-  instance['long'] = latitude
+  instance['lat'] = latitude
+  instance['long'] = longitude
 
   # Get address based on lat & long coordinates via https://www.geeksforgeeks.org/how-to-get-geolocation-in-python/
   # and also via https://www.geeksforgeeks.org/get-the-city-state-and-country-names-from-latitude-and-longitude-using-python/
