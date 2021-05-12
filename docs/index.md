@@ -23,7 +23,7 @@ The following Google My Maps are viewable from any pratt.edu account:
 #### Parking entries in Jackson Heights, by day of the week
 ![Parking entries in Jackson Heights, by day of the week](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_day_JH.png)
 #### Parking entries in Jackson Heights, by street
-![Parking entries in Jackson Heights, by street](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_street_JH.png)
+![Parking entries in Jackson Heights, by street](https://github.com/eleeb/car-here-now-history/blob/942cc0d9b2e2e772dee25888b3f81c7f7efc78fd/docs/assets/images/parking_by_street_JH.png)
 
 # How to make the code work
 In order to to run the programs in this repo, you will need a copy of the raw JSON dataset (`cardata_export_raw.json`). For privacy reasons, this is not available on my public repo. Please reach out for access to this file.
