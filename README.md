@@ -1,5 +1,5 @@
 # _Car Here Now_ history
-This is final project for the course INFO-664: [*Programming for Cultural Heritage*](http://pfch.nyc/ "Programming for Cultural Heritage") taught by [Matt Miller](https://github.com/thisismattmiller "Matt Miller"), which I took as a non-matriculating student while employed at the Pratt Institute School of Information in Spring 2021.
+This is my final project for the course INFO-664: [*Programming for Cultural Heritage*](http://pfch.nyc/ "Programming for Cultural Heritage") taught by [Matt Miller](https://github.com/thisismattmiller "Matt Miller"), which I took as a non-matriculating student while employed at the Pratt Institute School of Information in Spring 2021.
 
 ## Project Overview
 The goal of the project was to analyze all of the data my partner and I have collected over roughly the past year and a half on when and where we’ve parked our car on the street. We have been tracking this information via a mobile app that we created called _Car Here Now_.
