@@ -30,7 +30,7 @@ In order to to run the programs in this repo, you will need a copy of the raw JS
 
 Once you have access to this file:
 1. First, run the `cardata_parse.py` program to parse the data. This will create a new clean dataset called `parking_data_parsed.json`
-2. In order to run the other 2 programs, you'll first need to create 2 new directories in your project folder: `parking_by_day` and `parking_covid`. These will hold all of the the CSVs that will be created when you run the corresponding programs.
+2. In order to run the other 2 programs, you'll first need to create 2 new directories in your project folder: `parking_by_day` and `parking_covid`. These will hold all of the CSVs that will be created when you run the corresponding programs.
 3. Now that you have the new cleaned JSON dataset _and_ created directories for the CSVs, you'll be able to run the other 2 programs: `parking_by_day.py` and `parking_covid.py`
 
-**\*Note:** You may notice there is also directory titled `parker_icons` which contains 14 PNG files. These are custom icons I created to use in the 2 maps I created using Google My Maps (1 contains all of the parking entries separated by day, the contains only entries from my current neighborhood by day). For privacy reasons, the URLs to these maps are not viewable publicly. Please reach out for viewing permissions.
+**\*Note:** You may notice there is also directory titled `parker_icons` which contains 14 PNG files. These are custom icons I created to use in the 2 maps I created using Google My Maps. For privacy reasons, the URLs to these maps are not viewable publicly. Please reach out for viewing permissions.
