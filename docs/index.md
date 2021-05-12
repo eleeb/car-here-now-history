@@ -15,11 +15,11 @@ I was also interested in seeing our parking habits from before the COVID-19 pand
 
 ### Visualizations
 #### Parking entries, pre-COVID and post-COVID, by day of the week
-INSERT IMAGE HERE
+![Parking entries, pre-COVID and post-COVID, by day of the week](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_day_covid.png)
 #### Parking entries in Jackson Heights, by day of the week
-INSERT IMAGE HERE
+![Parking entries in Jackson Heights, by day of the week](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_day_JH.png)
 #### Parking entries in Jackson Heights, by street
-INSERT IMAGE HERE
+![Parking entries in Jackson Heights, by street](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_street_JH.png)
 #### Interactive maps\*
 The following Google My Maps are viewable from any pratt.edu account:
 - [All parking entries captured in *Car Here Now*](https://www.google.com/maps/d/edit?mid=1L90LDmH8kuZISay9kq9xrFWn_UH56Nsy&usp=sharing "All parking entries captured in *Car Here Now*")
