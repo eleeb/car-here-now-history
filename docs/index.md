@@ -2,7 +2,7 @@
 The goal of the project was to analyze all of the data my partner and I have collected over roughly the past year and a half on when and where we’ve parked our car on the street. We have been tracking this information via a mobile app that we created called _Car Here Now_.
 
 #### Screenshots of _Car Here Now_ app
-<img src="assets/images/car-her-now_opening-screen.png" width="200">    <img src="assets/images/car-here-now_current-spot.png" width="200">.   <img src="assets/images/car-here-now_park.png" width="200">
+<img src="assets/images/car-her-now_opening-screen.png" width="200">     <img src="assets/images/car-here-now_current-spot.png" width="200">     <img src="assets/images/car-here-now_park.png" width="200">
 
 ## Workflow
 While it would have been ideal to work with the data in realtime, for the purposes of this project I downloaded a raw JSON dataset on May 8, 2021 of all of our parking entries to work with.
