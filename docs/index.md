@@ -2,7 +2,7 @@
 The goal of the project was to analyze all of the data my partner and I have collected over roughly the past year and a half on when and where we’ve parked our car on the street. We have been tracking this information via a mobile app that we created called _Car Here Now_.
 
 #### Screenshots of _Car Here Now_ app
-<img src="https://github.com/eleeb/car-here-now-history/blob/9da6c297d15a2b3d84edb69ee91963df5e841c16/docs/assets/images/car-her-now_opening-screen.png" width="200">    <img src="https://github.com/eleeb/car-here-now-history/blob/9da6c297d15a2b3d84edb69ee91963df5e841c16/docs/assets/images/car-here-now_current-spot.png" width="200">.   <img src="https://github.com/eleeb/car-here-now-history/blob/9da6c297d15a2b3d84edb69ee91963df5e841c16/docs/assets/images/car-here-now_park.png" width="200">
+<img src="assets/images/car-her-now_opening-screen.png" width="200">    <img src="assets/images/car-here-now_current-spot.png" width="200">.   <img src="assets/images/car-here-now_park.png" width="200">
 
 ## Workflow
 While it would have been ideal to work with the data in realtime, for the purposes of this project I downloaded a raw JSON dataset on May 8, 2021 of all of our parking entries to work with.
@@ -19,11 +19,11 @@ The following Google My Maps are viewable from any pratt.edu account:
 - [All parking entries captured in *Car Here Now*](https://www.google.com/maps/d/edit?mid=1L90LDmH8kuZISay9kq9xrFWn_UH56Nsy&usp=sharing "All parking entries captured in *Car Here Now*")
 - [All parking entries in Jackson Heights](https://www.google.com/maps/d/edit?mid=1WOKakol7v6hZVbQoW-O44-ymsFjCNhEu&usp=sharing "Parking entries in Jackson Heights")
 #### Parking entries, pre-COVID and post-COVID, by day of the week
-![Parking entries, pre-COVID and post-COVID, by day of the week](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_day_covid.png)
+![Parking entries, pre-COVID and post-COVID, by day of the week](assets/images/parking_by_day_covid.png)
 #### Parking entries in Jackson Heights, by day of the week
-![Parking entries in Jackson Heights, by day of the week](https://github.com/eleeb/car-here-now-history/blob/c227897822646c64364afe9630f206579c1b8cd0/docs/assets/images/parking_by_day_JH.png)
+![Parking entries in Jackson Heights, by day of the week](assets/images/parking_by_day_JH.png)
 #### Parking entries in Jackson Heights, by street
-![Parking entries in Jackson Heights, by street](https://github.com/eleeb/car-here-now-history/blob/942cc0d9b2e2e772dee25888b3f81c7f7efc78fd/docs/assets/images/parking_by_street_JH.png)
+![Parking entries in Jackson Heights, by street](assets/images/parking_by_street_JH.png)
 
 # How to make the code work
 In order to to run the programs in this repo, you will need a copy of the raw JSON dataset (`cardata_export_raw.json`). For privacy reasons, this is not available on my public repo. Please reach out for access to this file.
